@@ -9,7 +9,6 @@ function writeCards(names, eventName) {
     return thankYouMessages;
 }
 
-// Example usage:
 const namesArray = ["Charlie", "Samip", "Ali"];
 const event = "birthday";
 
